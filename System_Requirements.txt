@@ -1,0 +1,7 @@
+1. Pyhton 3 must be installed
+2. install pyGame:
+3. Run GUI.py file to open Sudoku solver with GUI.
+ or
+   for text Sudoku solver open solver(Text_version).
+ 
+
