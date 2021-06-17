@@ -1,3 +1,4 @@
+#Run GUI.py to open the game
 
 # Sudoku-GUI-Solver
 This is a sudoku solver using the Recursion and Backtracking algorithm. 
